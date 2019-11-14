@@ -5,7 +5,7 @@ Email: _wilmeru7899@hstat.org_
 
 
 Bio: 
-<br> I am a student of High School of Telecommunication Arts and Technology <br> I am in the software engineering program 
+<br> I am a student of [High School of Telecommunication Arts and Technology](http://www.hstat.org/) <br> I am in the software engineering program 
 
 My schedule is:
 =======
