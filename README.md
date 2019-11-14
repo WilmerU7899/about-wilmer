@@ -7,7 +7,7 @@ I am a student of High School of Telecommunication Arts and Technology and I am 
 
 My schedule is:
 
-1. Wieght Training  
+1. Weight Training  
 2. Algebra 2  
 3. SEP  
 4. AP English 
