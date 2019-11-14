@@ -5,7 +5,7 @@ Email: _wilmeru7899@hstat.org_
 
 I am a student of High School of Telecommunication Arts and Technology and I am in the software engineering program 
 
-My schedule is:
+##### My schedule is:
 
 1. Weight Training  
 2. Algebra 2  
