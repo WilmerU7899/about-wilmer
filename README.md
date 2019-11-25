@@ -1,7 +1,7 @@
 # Wilmer Uguna    
 
 #### _Bio:_
-> I am a student of [High School of Telecommunication Arts and Technology](http://www.hstat.org/) <br> I am in the software engineering program <br>
+> I am a student of [High School of Telecommunication Arts and Technology](http://www.hstat.org/) <br> I am in the [software engineering program](https://hstatsep.github.io/) <br>
 ###### *Email:* <br> _wilmeru7899@hstat.org_ 
 
 My schedule is:
